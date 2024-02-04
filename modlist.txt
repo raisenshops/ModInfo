@@ -1,1 +1,1 @@
-GorillaSabers;Lightsabers for Gorilla Tag!;link
+AirJump;Dedicated mod to platforms;https://github.com/iiDk-the-actual/ModInfo/raw/main/AirJump.dll
