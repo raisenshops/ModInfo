@@ -2,21 +2,34 @@ Air Jump;Dedicated mod to platforms;https://github.com/iiDk-the-actual/ModInfo/r
 Camera Board;Camera on your board? I don't know;https://github.com/iiDk-the-actual/ModInfo/raw/main/CameraBoard.dll
 Cosmetx;Locally unlocks all cosmetics;https://github.com/iiDk-the-actual/ModInfo/raw/main/Cosmetx.dll
 Date Time Watch;A watch on your hand that tells you the time;https://github.com/iiDk-the-actual/ModInfo/raw/main/DateTimeWatch.dll
+Gorilla Steps;Step counter for Gorilla Tag;https://github.com/bjrsinge/GorillaSteps/releases/download/v1.0.6/GorillaSteps.dll
+Strange Cosmetics;Makes cosmetics... strange;https://github.com/pl2w/StrangeCosmetics/releases/download/1.0.0/StrangeCosmetics.dll
+Stream Overlays V2;Overlays for streaming lol;https://github.com/ShinyGorilla/StreamOverlaysV2/releases/download/1.0.1/StreamOverlaysV2.dll
+Enthusiast Headphones;Headphones for Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/EnthusiastHeadphones.dll
+Wardrobe Enhancements;Enhance your cosmetics with a new UI;https://github.com/developer9998/WardrobeEnhancements/releases/download/v1.0.0/WardrobeEnhancements.dll
+Blind Monke;Lowers your field of view;https://github.com/MrBanana01/BlindMonke/releases/download/1/BlindMonke.dll
 Long Arms;Gives you long arms;https://github.com/iiDk-the-actual/ModInfo/raw/main/EditArmLength.dll
 Frozone;Turns you into frozone, letting you slide around everywhere;https://github.com/iiDk-the-actual/ModInfo/raw/main/Frozone.dll
 Gorilla Sabers;Lightsabers for Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GSabers.dll
 TP Home;When entering the quit box, you will be teleported back to stump instead;https://cdn.discordapp.com/attachments/1170852733633441792/1191151773587619900/TpHome.dll?ex=65c94f89&is=65b6da89&hm=c7778422c88623d65466ef0b5b2c7d3d5ef9fd43e968eef3f291ac42db315e2f&
+Quitbox Visualizer;You can see the quitbox;https://github.com/lunakittyyy/QuitboxVisualizer/releases/download/1.0.0/QuitboxVisualizer.dll
 Gorilla Snake;Snake in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/Gorilla_Snake.dll
+YouTuber Board;Puts a board in stump that says YouTuber;https://github.com/GoatGT/YouTuberBoard/releases/download/gtag/Subscribermod.dll
+Wall Climb;Lets you grip to climb on walls;https://github.com/AbomiNathan96/Wall-Climb/releases/download/release2/Wall.Climb.dll
 Graphics Controller;Lets you raise or lower your quality in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GraphicsController.dll
 Holdaballz;Lets yous pawn throwable balls;https://github.com/iiDk-the-actual/ModInfo/raw/main/Holdaballz.dll
+Banan Hunt;Spawns a banana you can hunt for around the map;https://github.com/zaynethedev/Banan-Hunt/releases/download/v1.0.0/BananHunt-1.0.0.dll
 Leg Mod;Gives you legs in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/LegMod.dll
 Drown Mod;Lets you drown in water;https://github.com/iiDk-the-actual/ModInfo/raw/main/LunaDrowning.dll
 Tic Tac Toe;Lets you play tic tac toe;https://github.com/iiDk-the-actual/ModInfo/raw/main/TicTacToe.dll
 Five Nights at Gorillas;FNAF in Gorilla Tag;https://github.com/MrBanana01/Five-Nights-At-Gorillas/releases/download/1.0.8.1/FiveNightsAtGorillas.dll
 Who Is Talking;Puts nametags above everyone's head;https://github.com/iiDk-the-actual/ModInfo/raw/main/NameTag_Mod.dll
+Join Private Room;Lets you join a random private room;https://github.com/SteveTheAnimator/JoinPrivateLobby/releases/download/releasetag/JoinPrivateLobby.dll
 Live Gorilla Reaction;Puts your face infront of some funny text on your screen;https://cdn.discordapp.com/attachments/1170852733633441792/1187460396219650138/LiveGorillaReaction.dll?ex=65ce56ac&is=65bbe1ac&hm=d87578c79e88548986c3508ebe2b50c4ec08db10db7fc95271fc9ea84c923514&
 Monke Bazooka;Gives you a giant bazooka;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonkeBazooka.dll
+Galaxy Sphere;Spawns an orb inside of forest;https://github.com/MrKingmonkey/galaxy-orb-mod/releases/download/1.0.1/GalaxySphere.dll
 MonoSandbox;Lets you spawn and use random objects;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonoSandbox.dll
+Trampoline Mod;Trampolines in Gorilla Tag;https://github.com/developer9998/DevTrampolineMod/releases/download/1.1.1/DevTrampolineMod.dll
 Dev Minecraft Mod;Minecraft in Gorilla Tag;https://github.com/developer9998/DevMinecraftMod/releases/download/1.1.2/DevMinecraftMod.dll
 Old Mirror;Puts the old mirror in stump;https://github.com/iiDk-the-actual/ModInfo/raw/main/OldMirror.dll
 Playspace;Imitates OVR Advanced Settings, letting you abuse your playspace;https://github.com/iiDk-the-actual/ModInfo/raw/main/Playspace.dll
@@ -25,6 +38,9 @@ Sticky Cosmetics;Makes cosmetics stick to your hands like how they used to;https
 Walk Simulator;Lets you walk around on PC by pressing tab;https://github.com/iiDk-the-actual/ModInfo/raw/main/walksim.dll
 Gorilla Server Stats;Shows important data about the room you're in;https://github.com/iiDk-the-actual/ModInfo/raw/main/GorillaServerStats.dll
 Yizzi's Camera Mod;A camera mod for recording and/or streaming;https://github.com/iiDk-the-actual/ModInfo/raw/main/YizziCamModV3.dll
+Wrysers' Go Pro;Another camera mod for recording and/or streaming;https://github.com/wryser/Wrysers-GoPro/releases/download/2.3.0/WrysersGoPro.dll
+OctoCam;Once again another camera mod for recording and/or streaming;https://github.com/OctoBurr/OctoCam/releases/download/1.0.1/OctoCam.dll
+GorillaFPV;Turns you into a drone;https://github.com/Elmishhh/GorillaFPV/releases/download/1.0.2/GorillaFPV.dll
 Computer++;A modified computer to replace Computer Interface;https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll
 Bark;The one and only legal mod menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Bark-1.5.1.dll
 Anti Mod Checker;Stops mod checkers from looking at your mods;https://cdn.discordapp.com/attachments/1170852733633441792/1203460271172222976/AntiModChecker.dll?ex=65d12cb7&is=65beb7b7&hm=6446c9efb3b865389eddb2100697db7c114aacd56f95e8d60285d3a5f0f66297&
