@@ -1,1 +1,17 @@
-AirJump;Dedicated mod to platforms;https://github.com/iiDk-the-actual/ModInfo/raw/main/AirJump.dll
+Air Jump;Dedicated mod to platforms;https://github.com/iiDk-the-actual/ModInfo/raw/main/AirJump.dll
+Camera Board;Camera on your board? I don't know;https://github.com/iiDk-the-actual/ModInfo/raw/main/CameraBoard.dll
+Cosmetx;Locally unlocks all cosmetics;https://github.com/iiDk-the-actual/ModInfo/raw/main/Cosmetx.dll
+Date Time Watch;A watch on your hand that tells you the time;https://github.com/iiDk-the-actual/ModInfo/raw/main/DateTimeWatch.dll
+Long Arms;Gives you long arms;https://github.com/iiDk-the-actual/ModInfo/raw/main/EditArmLength.dll
+Frozone;Turns you into frozone, letting you slide around everywhere;https://github.com/iiDk-the-actual/ModInfo/raw/main/Frozone.dll
+Gorilla Sabers;Lightsabers for Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GSabers.dll
+Gorilla Snake;Snake in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/Gorilla_Snake.dll
+Graphics Controller;Lets you raise or lower your quality in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GraphicsController.dll
+Holdaballz;Lets yous pawn throwable balls;https://github.com/iiDk-the-actual/ModInfo/raw/main/Holdaballz.dll
+Leg Mod;Gives you legs in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/LegMod.dll
+Drown Mod;Lets you drown in water;https://github.com/iiDk-the-actual/ModInfo/raw/main/LunaDrowning.dll
+Monke Bazooka;Gives you a giant bazooka;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonkeBazooka.dll
+MonoSandbox;Lets you spawn and use random objects;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonoSandbox.dll
+Old Mirror;Puts the old mirror in stump;https://github.com/iiDk-the-actual/ModInfo/raw/main/OldMirror.dll
+Playspace;Imitates OVR Advanced Settings, letting you abuse your playspace;https://github.com/iiDk-the-actual/ModInfo/raw/main/Playspace.dll
+Portal Gun;Portal in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/PortalGun.dll
