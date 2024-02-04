@@ -14,6 +14,7 @@ Drown Mod;Lets you drown in water;https://github.com/iiDk-the-actual/ModInfo/raw
 Tic Tac Toe;Lets you play tic tac toe;https://github.com/iiDk-the-actual/ModInfo/raw/main/TicTacToe.dll
 Five Nights at Gorillas;FNAF in Gorilla Tag;https://github.com/MrBanana01/Five-Nights-At-Gorillas/releases/download/1.0.8.1/FiveNightsAtGorillas.dll
 Who Is Talking;Puts nametags above everyone's head;https://github.com/iiDk-the-actual/ModInfo/raw/main/NameTag_Mod.dll
+Live Gorilla Reaction;Puts your face infront of some funny text on your screen;https://cdn.discordapp.com/attachments/1170852733633441792/1187460396219650138/LiveGorillaReaction.dll?ex=65ce56ac&is=65bbe1ac&hm=d87578c79e88548986c3508ebe2b50c4ec08db10db7fc95271fc9ea84c923514&
 Monke Bazooka;Gives you a giant bazooka;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonkeBazooka.dll
 MonoSandbox;Lets you spawn and use random objects;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonoSandbox.dll
 Dev Minecraft Mod;Minecraft in Gorilla Tag;https://github.com/developer9998/DevMinecraftMod/releases/download/1.1.2/DevMinecraftMod.dll
