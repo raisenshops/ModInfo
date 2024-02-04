@@ -17,3 +17,4 @@ Playspace;Imitates OVR Advanced Settings, letting you abuse your playspace;https
 Portal Gun;Portal in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/PortalGun.dll
 Sticky Cosmetics;Makes cosmetics stick to your hands like how they used to;https://github.com/iiDk-the-actual/ModInfo/raw/main/StickyCosmetics.dll
 Walk Simulator;Lets you walk around on PC by pressing tab;https://github.com/iiDk-the-actual/ModInfo/raw/main/walksim.dll
+Computer++;A modified computer to replace Computer Interface;https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll
