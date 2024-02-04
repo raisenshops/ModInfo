@@ -41,6 +41,7 @@ Yizzi's Camera Mod;A camera mod for recording and/or streaming;https://github.co
 Wrysers' Go Pro;Another camera mod for recording and/or streaming;https://github.com/wryser/Wrysers-GoPro/releases/download/2.3.0/WrysersGoPro.dll
 OctoCam;Once again another camera mod for recording and/or streaming;https://github.com/OctoBurr/OctoCam/releases/download/1.0.1/OctoCam.dll
 GorillaFPV;Turns you into a drone;https://github.com/Elmishhh/GorillaFPV/releases/download/1.0.2/GorillaFPV.dll
+RGB Keyboard;Makes the keyboard's keys rainbow;https://github.com/iiDk-the-actual/ModInfo/raw/main/RGBkeyboard.dll
 Computer++;A modified computer to replace Computer Interface;https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll
 Bark;The one and only legal mod menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Bark-1.5.1.dll
 Anti Mod Checker;Stops mod checkers from looking at your mods;https://cdn.discordapp.com/attachments/1170852733633441792/1203460271172222976/AntiModChecker.dll?ex=65d12cb7&is=65beb7b7&hm=6446c9efb3b865389eddb2100697db7c114aacd56f95e8d60285d3a5f0f66297&
