@@ -15,3 +15,5 @@ MonoSandbox;Lets you spawn and use random objects;https://github.com/iiDk-the-ac
 Old Mirror;Puts the old mirror in stump;https://github.com/iiDk-the-actual/ModInfo/raw/main/OldMirror.dll
 Playspace;Imitates OVR Advanced Settings, letting you abuse your playspace;https://github.com/iiDk-the-actual/ModInfo/raw/main/Playspace.dll
 Portal Gun;Portal in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/PortalGun.dll
+Sticky Cosmetics;Makes cosmetics stick to your hands like how they used to;https://github.com/iiDk-the-actual/ModInfo/raw/main/StickyCosmetics.dll
+Walk Simulator;Lets you walk around on PC by pressing tab;https://github.com/iiDk-the-actual/ModInfo/raw/main/walksim.dll
