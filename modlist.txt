@@ -18,3 +18,10 @@ Portal Gun;Portal in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/
 Sticky Cosmetics;Makes cosmetics stick to your hands like how they used to;https://github.com/iiDk-the-actual/ModInfo/raw/main/StickyCosmetics.dll
 Walk Simulator;Lets you walk around on PC by pressing tab;https://github.com/iiDk-the-actual/ModInfo/raw/main/walksim.dll
 Computer++;A modified computer to replace Computer Interface;https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll
+Bark;The one and only legal mod menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Bark-1.5.1.dll
+ii's Stupid Menu;A non skidded free cheat menu with over 300+ mods;https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/2.9p1/iis.Stupid.Menu.dll
+Fish Menu;A probably skidded free cheat menu;https://notfishvr.dev/cdn/Fish-Menu/Fish-Menu.dll
+R Gold;A skidded cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/RGold.dll
+ShibaGT Gold;A leaked paid cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGT%20Gold%20v9.dll
+ShibaGT Dark;A good free cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGTDARK.dll
+Tundra Client;Another free cheat menu, also very good;https://github.com/iiDk-the-actual/ModInfo/raw/main/TundraClient.dll
