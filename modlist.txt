@@ -5,23 +5,34 @@ Date Time Watch;A watch on your hand that tells you the time;https://github.com/
 Long Arms;Gives you long arms;https://github.com/iiDk-the-actual/ModInfo/raw/main/EditArmLength.dll
 Frozone;Turns you into frozone, letting you slide around everywhere;https://github.com/iiDk-the-actual/ModInfo/raw/main/Frozone.dll
 Gorilla Sabers;Lightsabers for Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GSabers.dll
+TP Home;When entering the quit box, you will be teleported back to stump instead;https://cdn.discordapp.com/attachments/1170852733633441792/1191151773587619900/TpHome.dll?ex=65c94f89&is=65b6da89&hm=c7778422c88623d65466ef0b5b2c7d3d5ef9fd43e968eef3f291ac42db315e2f&
 Gorilla Snake;Snake in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/Gorilla_Snake.dll
 Graphics Controller;Lets you raise or lower your quality in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/GraphicsController.dll
 Holdaballz;Lets yous pawn throwable balls;https://github.com/iiDk-the-actual/ModInfo/raw/main/Holdaballz.dll
 Leg Mod;Gives you legs in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/LegMod.dll
 Drown Mod;Lets you drown in water;https://github.com/iiDk-the-actual/ModInfo/raw/main/LunaDrowning.dll
+Tic Tac Toe;Lets you play tic tac toe;https://github.com/iiDk-the-actual/ModInfo/raw/main/TicTacToe.dll
+Five Nights at Gorillas;FNAF in Gorilla Tag;https://github.com/MrBanana01/Five-Nights-At-Gorillas/releases/download/1.0.8.1/FiveNightsAtGorillas.dll
+Who Is Talking;Puts nametags above everyone's head;https://github.com/iiDk-the-actual/ModInfo/raw/main/NameTag_Mod.dll
 Monke Bazooka;Gives you a giant bazooka;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonkeBazooka.dll
 MonoSandbox;Lets you spawn and use random objects;https://github.com/iiDk-the-actual/ModInfo/raw/main/MonoSandbox.dll
+Dev Minecraft Mod;Minecraft in Gorilla Tag;https://github.com/developer9998/DevMinecraftMod/releases/download/1.1.2/DevMinecraftMod.dll
 Old Mirror;Puts the old mirror in stump;https://github.com/iiDk-the-actual/ModInfo/raw/main/OldMirror.dll
 Playspace;Imitates OVR Advanced Settings, letting you abuse your playspace;https://github.com/iiDk-the-actual/ModInfo/raw/main/Playspace.dll
 Portal Gun;Portal in Gorilla Tag;https://github.com/iiDk-the-actual/ModInfo/raw/main/PortalGun.dll
 Sticky Cosmetics;Makes cosmetics stick to your hands like how they used to;https://github.com/iiDk-the-actual/ModInfo/raw/main/StickyCosmetics.dll
 Walk Simulator;Lets you walk around on PC by pressing tab;https://github.com/iiDk-the-actual/ModInfo/raw/main/walksim.dll
+Gorilla Server Stats;Shows important data about the room you're in;https://github.com/iiDk-the-actual/ModInfo/raw/main/GorillaServerStats.dll
+Yizzi's Camera Mod;A camera mod for recording and/or streaming;https://github.com/iiDk-the-actual/ModInfo/raw/main/YizziCamModV3.dll
 Computer++;A modified computer to replace Computer Interface;https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll
 Bark;The one and only legal mod menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Bark-1.5.1.dll
-ii's Stupid Menu;A non skidded free cheat menu with over 300+ mods;https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/2.9p1/iis.Stupid.Menu.dll
+Anti Mod Checker;Stops mod checkers from looking at your mods;https://cdn.discordapp.com/attachments/1170852733633441792/1203460271172222976/AntiModChecker.dll?ex=65d12cb7&is=65beb7b7&hm=6446c9efb3b865389eddb2100697db7c114aacd56f95e8d60285d3a5f0f66297&
+Tails;Gives everyone tails;https://cdn.discordapp.com/attachments/1170852733633441792/1203382646437056593/Tails.dll?ex=65d0e46c&is=65be6f6c&hm=d7e039f8f8f322a5943ff3055304aa9bb55dd005ed4f89de9e9bde75d8652b58&
+Player Models;Gives you custom player models, created by NachoEngine;https://cdn.discordapp.com/attachments/1170852733633441792/1203432965393358980/PlayerModel.dll?ex=65d11349&is=65be9e49&hm=24700854fb77f8f6f0d67e4e89f54ca08381f357aa4618578343cae99f478176&
+ii's Stupid Menu;The best non skidded free cheat menu with over 300+ mods;https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/2.9p1/iis.Stupid.Menu.dll
 Fish Menu;A probably skidded free cheat menu;https://notfishvr.dev/cdn/Fish-Menu/Fish-Menu.dll
 R Gold;A skidded cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/RGold.dll
 ShibaGT Gold;A leaked paid cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGT%20Gold%20v9.dll
 ShibaGT Dark;A good free cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGTDARK.dll
 Tundra Client;Another free cheat menu, also very good;https://github.com/iiDk-the-actual/ModInfo/raw/main/TundraClient.dll
+Void Menu;A moderately good cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Void_V7_Patch_1.dll
