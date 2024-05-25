@@ -55,3 +55,6 @@ ShibaGT Dark;A good free cheat menu;https://github.com/iiDk-the-actual/ModInfo/r
 Tundra Client;Another free cheat menu, also very good;https://github.com/iiDk-the-actual/ModInfo/raw/main/TundraClient.dll
 Void Menu;A moderately good cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Void_V7_Patch_1.dll
 synergi;A very early version of steal.lol;https://github.com/iiDk-the-actual/ModInfo/raw/main/synergi-04.17.24.dll
+Fixed Rotation;Makes your player point in the correct orientation when starting the game;https://github.com/iiDk-the-actual/ModInfo/raw/main/FixedRotation.dll
+Gorilla Shirts;A mod where you can wear your own custom shirts;https://github.com/iiDk-the-actual/ModInfo/blob/main/GorillaShirts.dll
+Monke Dimensions;Like monke map loader but working again;https://github.com/iiDk-the-actual/ModInfo/raw/main/Monke%20Dimensions.dll
