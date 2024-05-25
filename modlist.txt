@@ -47,10 +47,11 @@ Bark;The one and only legal mod menu;https://github.com/iiDk-the-actual/ModInfo/
 Anti Mod Checker;Stops mod checkers from looking at your mods;https://cdn.discordapp.com/attachments/1170852733633441792/1203460271172222976/AntiModChecker.dll?ex=65d12cb7&is=65beb7b7&hm=6446c9efb3b865389eddb2100697db7c114aacd56f95e8d60285d3a5f0f66297&
 Tails;Gives everyone tails;https://cdn.discordapp.com/attachments/1170852733633441792/1203382646437056593/Tails.dll?ex=65d0e46c&is=65be6f6c&hm=d7e039f8f8f322a5943ff3055304aa9bb55dd005ed4f89de9e9bde75d8652b58&
 Player Models;Gives you custom player models, created by NachoEngine;https://cdn.discordapp.com/attachments/1170852733633441792/1203432965393358980/PlayerModel.dll?ex=65d11349&is=65be9e49&hm=24700854fb77f8f6f0d67e4e89f54ca08381f357aa4618578343cae99f478176&
-ii's Stupid Menu;The best non skidded free cheat menu with over 300+ mods;https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/2.9p1/iis.Stupid.Menu.dll
+ii's Stupid Menu;The best non skidded free cheat menu with over 300+ mods;https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/3.5.0/iis_Stupid_Menu.dll
 Fish Menu;A probably skidded free cheat menu;https://notfishvr.dev/cdn/Fish-Menu/Fish-Menu.dll
 R Gold;A skidded cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/RGold.dll
 ShibaGT Gold;A leaked paid cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGT%20Gold%20v9.dll
 ShibaGT Dark;A good free cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/ShibaGTDARK.dll
 Tundra Client;Another free cheat menu, also very good;https://github.com/iiDk-the-actual/ModInfo/raw/main/TundraClient.dll
 Void Menu;A moderately good cheat menu;https://github.com/iiDk-the-actual/ModInfo/raw/main/Void_V7_Patch_1.dll
+synergi;A very early version of steal.lol;https://github.com/iiDk-the-actual/ModInfo/raw/main/synergi-04.17.24.dll
