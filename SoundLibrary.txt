@@ -41,3 +41,4 @@ THX Intro;https://github.com/iiDk-the-actual/ModInfo/raw/main/thx.mp3
 Virtual Insanity Chorus;https://github.com/iiDk-the-actual/ModInfo/raw/main/virtual%20insanity.mp3
 Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/wrong.mp3
 You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20me%20gas%20station.mp3
+Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldansen.mp3
