@@ -26,3 +26,4 @@ Get Out;https://github.com/iiDk-the-actual/ModInfo/raw/main/get-out-made-with-Vo
 Garrys Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/garry's-mod-death-sound-made-with-Voicemod.mp3
 Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/roblox-hi-wave-sound-effect-made-with-Voicemod.mp3
 Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/roblox-bye.mp3
+Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/death-whistle-57.mp3
