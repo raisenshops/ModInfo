@@ -23,7 +23,21 @@ Gunshot;https://github.com/iiDk-the-actual/ModInfo/raw/main/gunshot-sound-effect
 Rizz;https://github.com/iiDk-the-actual/ModInfo/raw/main/RIZZ%20Sound%20Effect.mp3
 Holy Moly;https://github.com/iiDk-the-actual/ModInfo/raw/main/holy-moly-made-with-Voicemod.mp3
 Get Out;https://github.com/iiDk-the-actual/ModInfo/raw/main/get-out-made-with-Voicemod.mp3
-Garrys Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/garry's-mod-death-sound-made-with-Voicemod.mp3
-Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/roblox-hi-wave-sound-effect-made-with-Voicemod.mp3
-Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/roblox-bye.mp3
+Garry's Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/garry's-mod-death-sound-made-with-Voicemod.mp3
+Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/hi.mp3
+Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/bye.mp3
 Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/death-whistle-57.mp3
+It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/blob/main/It's%20just%20a%20burning%20memory.mp3
+Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/amarillo.mp3
+Brain Fart;https://github.com/iiDk-the-actual/ModInfo/raw/main/brain%20fard.mp3
+Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/cave%20wave.mp3
+Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/correct.mp3
+Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/don%20pollo.mp3
+Libet's Delay;https://github.com/iiDk-the-actual/ModInfo/raw/main/libets%20delay.mp3
+Luigi Talks About Sea Shells;https://github.com/iiDk-the-actual/ModInfo/raw/main/luigi%20talks%20about%20sea%20shells.mp3
+Napoleon's Song;https://github.com/iiDk-the-actual/ModInfo/raw/main/napoleons%20song.mp3
+Portal Radio;https://github.com/iiDk-the-actual/ModInfo/raw/main/portal%20radio.mp3
+THX Intro;https://github.com/iiDk-the-actual/ModInfo/raw/main/thx.mp3
+Virtual Insanity Chorus;https://github.com/iiDk-the-actual/ModInfo/raw/main/virtual%20insanity.mp3
+Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/wrong.mp3
+You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20me%20gas%20station.mp3
