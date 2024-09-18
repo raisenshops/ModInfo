@@ -27,10 +27,10 @@ Garry's Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/garry's-mo
 Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/hi.mp3
 Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/bye.mp3
 Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/death-whistle-57.mp3
-It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/raw/main/It's%20just%20a%20burning%20memory.mp3
-Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/amarillo.mp3
+It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/raw/main/its%20just%20a%20burning%20memory.mp3
+Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Amarillo.mp3
 Brain Fart;https://github.com/iiDk-the-actual/ModInfo/raw/main/brain%20fard.mp3
-Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/cave%20wave.mp3
+Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/cavewave.mp3
 Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/correct.mp3
 Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/don%20pollo.mp3
 Libet's Delay;https://github.com/iiDk-the-actual/ModInfo/raw/main/libets%20delay.mp3
@@ -42,3 +42,4 @@ Virtual Insanity Chorus;https://github.com/iiDk-the-actual/ModInfo/raw/main/virt
 Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/wrong.mp3
 You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20me%20gas%20station.mp3
 Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldansen.mp3
+Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/computer.mp3
