@@ -45,3 +45,6 @@ Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldanse
 Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/computer.mp3
 Brainrot Scream;https://github.com/iiDk-the-actual/ModInfo/raw/main/aaaaaaaaaaaaaaaaah.mp3
 Why So Serious;https://github.com/iiDk-the-actual/ModInfo/raw/main/why%20so%20serious.mp3
+Collard Greens;https://github.com/iiDk-the-actual/ModInfo/raw/main/cgreen.mp3
+Helicopter;https://github.com/iiDk-the-actual/ModInfo/raw/main/helicopter.mp3
+Feel Good Inc.;https://github.com/iiDk-the-actual/ModInfo/raw/main/fginc.mp3
