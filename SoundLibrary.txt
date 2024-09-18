@@ -43,3 +43,4 @@ Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/wrong.mp3
 You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20me%20gas%20station.mp3
 Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldansen.mp3
 Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/computer.mp3
+Brainrot Scream;https://github.com/iiDk-the-actual/ModInfo/raw/main/aaaaaaaaaaaaaaaaah.mp3
