@@ -44,3 +44,4 @@ You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20m
 Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldansen.mp3
 Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/computer.mp3
 Brainrot Scream;https://github.com/iiDk-the-actual/ModInfo/raw/main/aaaaaaaaaaaaaaaaah.mp3
+Why So Serious;https://github.com/iiDk-the-actual/ModInfo/raw/main/why%20so%20serious.mp3
