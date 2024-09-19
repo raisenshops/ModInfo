@@ -48,3 +48,6 @@ Why So Serious;https://github.com/iiDk-the-actual/ModInfo/raw/main/why%20so%20se
 Collard Greens;https://github.com/iiDk-the-actual/ModInfo/raw/main/cgreen.mp3
 Helicopter;https://github.com/iiDk-the-actual/ModInfo/raw/main/helicopter.mp3
 Feel Good Inc.;https://github.com/iiDk-the-actual/ModInfo/raw/main/fginc.mp3
+FE!M;https://github.com/iiDk-the-actual/ModInfo/raw/main/FEIN.mp3
+Not Like Us;https://github.com/iiDk-the-actual/ModInfo/raw/main/Not%20Like%20Us.mp3
+I'm Spongebob;https://github.com/iiDk-the-actual/ModInfo/raw/main/imspongebob.mp3
