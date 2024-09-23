@@ -34,7 +34,7 @@ Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/cavewave.mp3
 Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/correct.mp3
 Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/don%20pollo.mp3
 Libet's Delay;https://github.com/iiDk-the-actual/ModInfo/raw/main/libets%20delay.mp3
-Luigi Talks About Sea Shells;https://github.com/iiDk-the-actual/ModInfo/raw/main/luigi%20talks%20about%20sea%20shells.mp3
+Luigi talks about Sea Shells;https://github.com/iiDk-the-actual/ModInfo/raw/main/luigi%20talks%20about%20sea%20shells.mp3
 Napoleon's Song;https://github.com/iiDk-the-actual/ModInfo/raw/main/napoleons%20song.mp3
 Portal Radio;https://github.com/iiDk-the-actual/ModInfo/raw/main/portal%20radio.mp3
 THX Intro;https://github.com/iiDk-the-actual/ModInfo/raw/main/thx.mp3
@@ -53,3 +53,6 @@ Not Like Us;https://github.com/iiDk-the-actual/ModInfo/raw/main/Not%20Like%20Us.
 I'm Spongebob;https://github.com/iiDk-the-actual/ModInfo/raw/main/imspongebob.mp3
 Bruh;https://github.com/iiDk-the-actual/ModInfo/raw/main/bruh.mp3
 Bonk;https://github.com/iiDk-the-actual/ModInfo/raw/main/bonk.mp3
+Run Rabbit Run;https://github.com/iiDk-the-actual/ModInfo/raw/main/runrabbitrun.mp3
+Tip Toe thru the Tulips;https://github.com/iiDk-the-actual/ModInfo/raw/main/tiptoe.mp3
+Warning Bot;https://github.com/iiDk-the-actual/ModInfo/raw/main/warningbot.wav
