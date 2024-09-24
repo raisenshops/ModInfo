@@ -57,3 +57,4 @@ Run Rabbit Run;https://github.com/iiDk-the-actual/ModInfo/raw/main/runrabbitrun.
 Tip Toe thru the Tulips;https://github.com/iiDk-the-actual/ModInfo/raw/main/tiptoe.mp3
 Warning Bot;https://github.com/iiDk-the-actual/ModInfo/raw/main/warningbot.wav
 PBBV;https://github.com/iiDk-the-actual/ModInfo/raw/main/pbbv.mp3
+Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/trumpetfanfare.wav
