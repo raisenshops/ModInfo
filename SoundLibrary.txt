@@ -59,3 +59,4 @@ Warning Bot;https://github.com/iiDk-the-actual/ModInfo/raw/main/warningbot.wav
 PBBV;https://github.com/iiDk-the-actual/ModInfo/raw/main/pbbv.mp3
 Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/trumpetfanfare.wav
 Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Circus%20-%20Theme%20Song.mp3
+Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/bunblebee.mp3
