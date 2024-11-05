@@ -13,3 +13,5 @@ Trigger;Disparar
 Noclip;Sinclip
 Ghost;Fantasma
 Invisible;Oculto
+Change;Cambiar
+Menu;Menú
