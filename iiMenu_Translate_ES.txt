@@ -8,6 +8,7 @@ wherever your hand desires;donde tu mano desee
 whoever your hand desires;quien tu mano desee
 whatever your hand desires;que tu mano desee
 Platforms;Plataformas
+Platform;Plataforma
 Fly;Volar
 Trigger;Disparar
 Noclip;Sinclip
@@ -15,3 +16,46 @@ Ghost;Fantasma
 Invisible;Oculto
 Change;Cambiar
 Menu;Menú
+Settings;Ajustes
+Join;Unirse
+Room;Sala
+Disable;Deshabilitar
+Enable;Habilitar
+Gun;Pistola
+Joystick;Palanca de Mando
+Hand;Mano
+Left;Izquierda
+Right;Derecha
+Forward;Adelante
+Backward;Atras
+Man;Hombre
+And;Y
+Auto;Automático
+Anti;Contra
+Gravity;Gravedad
+Disconnect;Desconectar
+Exit;Salir
+Sound;Sonido
+Grab;Agarrar
+Teleport;Teletransportarse
+Get;Conseguir
+to;a
+at;a
+of;a
+into;a
+by;a
+Connect;Conectar
+Name;Nombre
+Color;Color
+Random;Aleatorio
+Spaz;Convulsión
+Seuzure;Convulsión
+Speed;Velocidad
+Velocity;Velocidad
+Boost;Aumento
+Range;Alcance
+Arm;Brazo
+Long;Largo
+Tall;Alto
+Short;Bajo
+Tag;Etiqueta
