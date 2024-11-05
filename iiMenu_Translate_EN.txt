@@ -1,0 +1,15 @@
+Mods;Modificadores
+Mod;Modificación
+Build;Versión
+Version;Versión
+ii's Stupid Menu;ii's Estúpido Menú
+Stupid;Estúpido
+wherever your hand desires;donde tu mano desee
+whoever your hand desires;quien tu mano desee
+whatever your hand desires;que tu mano desee
+Platforms;Plataformas
+Fly;Volar
+Trigger;Disparar
+Noclip;Sinclip
+Ghost;Fantasma
+Invisible;Oculto
