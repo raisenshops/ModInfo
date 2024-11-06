@@ -39,10 +39,10 @@ Sound;Sonido
 Grab;Agarrar
 Teleport;Teletransportarse
 Get;Conseguir
-to;A
-at;A
-of;A
-into;A
+To;A
+At;A
+Of;A
+into;a
 Connect;Conectar
 Name;Nombre
 Color;Color
