@@ -45,7 +45,6 @@ Of;De
 into;dans
 Connect;Connecter
 Name;Nom
-Color;Couleur
 Random;Aléatoire
 Spaz;Spaz
 Seuzure;Saisie
