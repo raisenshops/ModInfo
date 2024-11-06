@@ -45,7 +45,6 @@ Of;Von
 into;hinein
 Connect;Verbinden
 Name;Name
-Color;Farbe
 Random;Zufällig
 Spaz;Spaz
 Seuzure;Seuzure
