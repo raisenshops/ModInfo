@@ -180,3 +180,7 @@ Time;Ho
 Report;Reportado
 Thanks;Gracias
 Using;Usar
+This;Esto
+Was;Fue
+Created;Creada
+ By ; Por 
