@@ -39,11 +39,11 @@ Sound;Sonido
 Grab;Agarrar
 Teleport;Teletransportarse
 Get;Conseguir
-to;a
-at;a
-of;a
-into;a
-by;a
+to;A
+at;A
+of;A
+into;A
+by;A
 Connect;Conectar
 Name;Nombre
 Color;Color
@@ -72,7 +72,7 @@ Welcome;Bienvenido
 Reconnect;Reconectar
 Invites;Invita
 Invite;Invitar
-you;tú
+you;Tú
 Safety;Seguridad
 Movement;Movimiento
 Advantage;Ventaja
