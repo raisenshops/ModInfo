@@ -39,9 +39,9 @@ Sound;Sonido
 Grab;Agarrar
 Teleport;Teletransportarse
 Get;Conseguir
-To;A
-At;A
-Of;A
+ To ; A 
+ At ; A 
+ Of ; A 
 into;a
 Connect;Conectar
 Name;Nombre
