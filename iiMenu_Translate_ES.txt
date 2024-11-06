@@ -178,3 +178,5 @@ Morning;Mañana
 Evening;Tarde
 Time;Ho
 Report;Reportado
+Thanks;Gracias
+Using;Usar
