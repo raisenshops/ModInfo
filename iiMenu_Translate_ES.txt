@@ -152,8 +152,8 @@ Strobe;Estroboscópico
 Tap;Toque
 Silent;Silencio
 Loud;Alto
-have;han
-been;sido
+Have;Han
+Been;Sido
 Fake;Falsos
 Yes;Sí
 Holdable;Sostenible
