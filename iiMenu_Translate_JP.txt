@@ -45,7 +45,6 @@ Of;の
 into;の中へ
 Connect;接続する
 Name;名前
-Color;色
 Random;ランダム
 Spaz;スパズ
 Seuzure;発作
