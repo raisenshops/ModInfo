@@ -237,8 +237,8 @@ Follow;Seguir
 Orbit;Orbitar
 Annoy;Molestar
 Intercourse;Sexual
-Animation;animación
-Animations;animaciónes
+Animation;Animación
+Animations;Animaciónes
 Custom;Costumbre
 Outline;Contorno
 Wrist;Muñeca
