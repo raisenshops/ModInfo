@@ -71,7 +71,7 @@ Welcome;Bienvenido
 Reconnect;Reconectar
 Invites;Invita
 Invite;Invitar
-you;Tú
+You;Tú
 Safety;Seguridad
 Movement;Movimiento
 Advantage;Ventaja
@@ -105,8 +105,8 @@ Voice;Voz
 Open;Abierto
 Return;Regresar
 Back;atrás
-the;la
-for;por
+The;La
+For;Por
 Projectile;Proyectil
 Control;Controlar
 Slide;Deslizarse
@@ -184,3 +184,77 @@ This;Esto
 Was;Fue
 Created;Creada
  By ; Por 
+WASD;WASD
+Are;Son
+Completely;Completamente
+Free;Gratis
+Scammed;Estafado
+ I ;Yo
+I,;I,
+ Am ; Soy
+Not;No
+Any;Cualquier
+Responsible;Responsable
+Responsibility;Responsabilidad
+While;Mientras
+It's;Es
+Its;Es
+ On ; En
+Sourced;De Origen
+If;Si
+What;Qué
+Who;Quién
+Where;Dónde
+How;Cómo
+Queue;Cola
+Connected;Conectado
+Slingshot;Honda
+Iron Man;Hombre de Hierro
+Spider Man;Hombre Araña
+Grappling Hooks;Ganchos de Agarre
+Drive;Conducir
+Size;Tamaño
+Run;Correr
+Pinch;Pellizco
+Climb;Trepar
+Low;Bajo
+High;Alto
+Airstrike;Ataque Aéreo
+Air;Aire
+C4;Bomba
+Punch Mod;Mod de Puñetazo
+Telekinesis;Telequinesia
+Solid;Sólido
+Max;Máximo
+Maximum;Máximo
+Throw;Tirar
+Ground;Suelo
+Helper;Ayudante
+Fan;Ventilador
+Bee;Abeja
+Copy;Copiar
+Follow;Seguir
+Orbit;Orbitar
+Annoy;Molestar
+Intercourse;Sexual
+Animation;animación
+Animations;animaciónes
+Custom;Costumbre
+Outline;Contorno
+Wrist;Muñeca
+Shiny;Brillante
+Thick;Grueso
+Type;Tipo
+Style;Estilo
+Background;Fondo
+Small;Pequeño
+Pointer;Puntero
+Line;Línea
+Direction;Dirección
+Button;Botón
+Buttons;Botones
+Serversided;Del Lado del Servidor
+Notifications;Notificaciones
+Notification;Notificación
+Vibration;Vibración
+Search;Buscar
