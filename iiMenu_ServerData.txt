@@ -1,4 +1,4 @@
 5.2.0
-47F316437B9BE495;goldentrophy,DBB5F1E33362A904;Onside,C73D1993E7E6E0E;Spacepepsican,29059E37ECCF438B;Twig,C067462EF8E2D0E9;goldentrophy,3EB38F122D48A0AB;Kingofnetflix,B2C0B9A013491494;COLOSSUSYTTV,E3B0E8BE963EAEE6;Crisp,B8848F029D97AED;REV,F2756D3E25D61C8B;basil,62AC4006AC771771;Symex,C65C4B74B23F451B;Twig,9D11781043A88381;BASIL,41F9CDE730BA3C7;CRISP,41F9C9DE730BA3C7;Crisp
+47F316437B9BE495;goldentrophy,DBB5F1E33362A904;Onside,C73D1993E7E6E0E;Spacepepsican,29059E37ECCF438B;Twig,C067462EF8E2D0E9;goldentrophy,3EB38F122D48A0AB;Kingofnetflix,B2C0B9A013491494;COLOSSUSYTTV,E3B0E8BE963EAEE6;Crisp,B8848F029D97AED;REV,F2756D3E25D61C8B;basil,62AC4006AC771771;Symex,C65C4B74B23F451B;Twig,9D11781043A88381;BASIL,41F9CDE730BA3C7;CRISP,41F9C9DE730BA3C7;Crisp,7C7FBB81A55F57F;Nerder
 You are using build {0}. This menu was created by iiDk (@goldentrophy) on discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.
 https://discord.gg/iidk
