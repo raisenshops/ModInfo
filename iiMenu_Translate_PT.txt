@@ -1,4 +1,6 @@
 Mods;Modificações
+Notifications;Notificações
+Notification;Notificação
 Mod;Modo
 Build;Construir
 Version;Versão
@@ -29,7 +31,6 @@ Right;Certo
 Forward;Avançar
 Backward;Para trás
 Man;Homem
-And;E
 Auto;Auto
 Anti;Anti
 Gravity;Gravidade
@@ -39,12 +40,10 @@ Sound;Som
 Grab;Pegar
 Teleport;Teleporte
 Get;Pegar
-To;Para
-At;No
-Of;De
 into;em
 Connect;Conectar
 Name;Nome
+Color;Cor
 Random;Aleatório
 Spaz;Spaz
 Seuzure;Seuzure
@@ -55,6 +54,14 @@ Range;Faixa
 Arm;Braço
 Long;Longo
 Tall;Alto
+Accept;Aceitar
+Snowball;Bola de neve
+Flip;Virar
+Fling;Arremesso
+Notify;Notificar
+Desires;Desejos
+Hunt;Caçar
+Infection;Infecção
 Short;Curto
 Tag;Marcação
 Favorite;Favorito
@@ -182,25 +189,16 @@ Using;Usando
 This;Esse
 Was;Era
 Created;Criado
-By;Por
 WASD;WASD
 Are;São
 Completely;Completamente
 Free;Livre
 Scammed;Enganado
-I;EU
-I,;EU,
-Am;Sou
-Not;Não
 Any;Qualquer
 Responsible;Responsável
 Responsibility;Responsabilidade
 While;Enquanto
-It's;Isso é
-Its;Isso é
-On;Sobre
 Sourced;Origem
-If;Se
 What;O que
 Who;Quem
 Where;Onde
@@ -253,7 +251,18 @@ Direction;Direção
 Button;Botão
 Buttons;Botões
 Serversided;Do lado do servidor
-Notifications;Notificações
-Notification;Notificação
 Vibration;Vibração
 Search;Procurar
+And;E
+I,;EU,
+Not;Não
+It's;Isso é
+Its;Isso é
+If;Se
+To;Para
+At;No
+Of;De
+By;Por
+Am;Sou
+On;Sobre
+I;EU
