@@ -1,4 +1,6 @@
 Mods;Mods
+Notifications;Notifications
+Notification;Notification
 Mod;Mod
 Build;Construire
 Version;Version
@@ -29,7 +31,6 @@ Right;Droite
 Forward;Avant
 Backward;En arrière
 Man;Homme
-And;Et
 Auto;Auto
 Anti;Anti
 Gravity;Pesanteur
@@ -39,12 +40,10 @@ Sound;Son
 Grab;Saisir
 Teleport;Téléportation
 Get;Obtenir
-To;À
-At;À
-Of;De
 into;dans
 Connect;Connecter
 Name;Nom
+Color;Couleur
 Random;Aléatoire
 Spaz;Spaz
 Seuzure;Saisie
@@ -55,6 +54,14 @@ Range;Gamme
 Arm;Bras
 Long;Long
 Tall;Grand
+Accept;Accepter
+Snowball;Boule de neige
+Flip;Retourner
+Fling;Jeter
+Notify;Notifier
+Desires;Désirs
+Hunt;Chasse
+Infection;Infection
 Short;Court
 Tag;Étiqueter
 Favorite;Préféré
@@ -182,25 +189,16 @@ Using;En utilisant
 This;Ce
 Was;Était
 Created;Créé
-By;Par
 WASD;WASD
 Are;Sont
 Completely;Complètement
 Free;Gratuit
 Scammed;Arnaqué
-I;je
-I,;JE,
-Am;Suis
-Not;Pas
 Any;N'importe lequel
 Responsible;Responsable
 Responsibility;Responsabilité
 While;Alors que
-It's;C'est
-Its;C'est
-On;Sur
 Sourced;Source
-If;Si
 What;Quoi
 Who;OMS
 Where;Où
@@ -253,7 +251,18 @@ Direction;Direction
 Button;Bouton
 Buttons;Boutons
 Serversided;Côté serveur
-Notifications;Notifications
-Notification;Notification
 Vibration;Vibration
 Search;Recherche
+And;Et
+I,;JE,
+Not;Pas
+It's;C'est
+Its;C'est
+If;Si
+To;À
+At;À
+Of;De
+By;Par
+Am;Suis
+On;Sur
+I;je
