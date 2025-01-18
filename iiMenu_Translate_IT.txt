@@ -1,4 +1,6 @@
 Mods;Mod
+Notifications;Notifiche
+Notification;Notifica
 Mod;Mod
 Build;Costruire
 Version;Versione
@@ -29,7 +31,6 @@ Right;Giusto
 Forward;Inoltrare
 Backward;Indietro
 Man;Uomo
-And;E
 Auto;Auto
 Anti;Anti
 Gravity;Gravità
@@ -39,12 +40,10 @@ Sound;Suono
 Grab;Preda
 Teleport;Teletrasporto
 Get;Ottenere
-To;A
-At;A
-Of;Di
 into;in
 Connect;Collegare
 Name;Nome
+Color;Colore
 Random;Casuale
 Spaz;Spaz
 Seuzure;Seduzione
@@ -55,6 +54,14 @@ Range;Allineare
 Arm;Braccio
 Long;Lungo
 Tall;Alto
+Accept;Accettare
+Snowball;Palla di neve
+Flip;Capovolgi
+Fling;Lanciare
+Notify;Avvisare
+Desires;Desideri
+Hunt;Caccia
+Infection;Infezione
 Short;Corto
 Tag;Etichetta
 Favorite;Preferito
@@ -182,25 +189,16 @@ Using;Utilizzando
 This;Questo
 Was;Era
 Created;Creato
-By;Di
 WASD;WASD
 Are;Sono
 Completely;Completamente
 Free;Gratuito
 Scammed;Truffato
-I;IO
-I,;IO,
-Am;Sono
-Not;Non
 Any;Qualunque
 Responsible;Responsabile
 Responsibility;Responsabilità
 While;Mentre
-It's;Suo
-Its;Suo
-On;SU
 Sourced;Origine
-If;Se
 What;Che cosa
 Who;Chi
 Where;Dove
@@ -253,7 +251,18 @@ Direction;Direzione
 Button;Pulsante
 Buttons;Pulsanti
 Serversided;Lato server
-Notifications;Notifiche
-Notification;Notifica
 Vibration;Vibrazione
 Search;Ricerca
+And;E
+I,;IO,
+Not;Non
+It's;Suo
+Its;Suo
+If;Se
+To;A
+At;A
+Of;Di
+By;Di
+Am;Sono
+On;SU
+I;IO
