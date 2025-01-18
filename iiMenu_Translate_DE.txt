@@ -1,8 +1,10 @@
 Mods;Mods
+Notifications;Benachrichtigungen
+Notification;Benachrichtigung
 Mod;Mod
 Build;Bauen
 Version;Version
-ii's Stupid Menu;ii's Dummes Menü
+ii's Stupid Menu;II's dummes Menü
 Stupid;Dumm
 wherever your hand desires;wohin auch immer Ihre Hand es verlangt
 whoever your hand desires;wen auch immer deine Hand begehrt
@@ -29,7 +31,6 @@ Right;Rechts
 Forward;Nach vorne
 Backward;Rückwärts
 Man;Mann
-And;Und
 Auto;Auto
 Anti;Anti
 Gravity;Schwerkraft
@@ -39,12 +40,10 @@ Sound;Klang
 Grab;Greifen
 Teleport;Teleportieren
 Get;Erhalten
-To;Zu
-At;Bei
-Of;Von
 into;hinein
 Connect;Verbinden
 Name;Name
+Color;Farbe
 Random;Zufällig
 Spaz;Spaz
 Seuzure;Seuzure
@@ -55,6 +54,14 @@ Range;Reichweite
 Arm;Arm
 Long;Lang
 Tall;Groß
+Accept;Akzeptieren
+Snowball;Schneeball
+Flip;Umdrehen
+Fling;Schleudern
+Notify;Benachrichtigen
+Desires;Wünsche
+Hunt;Jagd
+Infection;Infektion
 Short;Kurz
 Tag;Etikett
 Favorite;Favorit
@@ -182,25 +189,16 @@ Using;Benutzen
 This;Das
 Was;War
 Created;Erstellt
-By;Von
 WASD;WASD
 Are;Sind
 Completely;Vollständig
 Free;Frei
 Scammed;Betrogen
-I;ICH
-I,;ICH,
-Am;Bin
-Not;Nicht
 Any;Beliebig
 Responsible;Verantwortlich
 Responsibility;Verantwortung
 While;Während
-It's;Es ist
-Its;Es ist
-On;An
 Sourced;Bezogen
-If;Wenn
 What;Was
 Who;WHO
 Where;Wo
@@ -253,7 +251,18 @@ Direction;Richtung
 Button;Taste
 Buttons;Knöpfe
 Serversided;Serverseitig
-Notifications;Benachrichtigungen
-Notification;Benachrichtigung
 Vibration;Vibration
 Search;Suchen
+And;Und
+I,;ICH,
+Not;Nicht
+It's;Es ist
+Its;Es ist
+If;Wenn
+To;Zu
+At;Bei
+Of;Von
+By;Von
+Am;Bin
+On;An
+I;ICH
