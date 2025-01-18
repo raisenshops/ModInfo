@@ -1,4 +1,6 @@
 Mods;Modificadores
+Notifications;Notificaciones
+Notification;Notificación
 Mod;Modificación
 Build;Versión
 Version;Versión
@@ -29,7 +31,6 @@ Right;Derecha
 Forward;Adelante
 Backward;Atras
 Man;Hombre
-And;Y
 Auto;Automático
 Anti;Contra
 Gravity;Gravedad
@@ -39,9 +40,6 @@ Sound;Sonido
 Grab;Agarrar
 Teleport;Teletransportarse
 Get;Conseguir
- To ; A 
- At ; A 
- Of ; A 
 into;a
 Connect;Conectar
 Name;Nombre
@@ -183,25 +181,16 @@ Using;Usar
 This;Esto
 Was;Fue
 Created;Creada
- By ; Por 
 WASD;WASD
 Are;Son
 Completely;Completamente
 Free;Gratis
 Scammed;Estafado
- I ;Yo
-I,;I,
- Am ; Soy
-Not;No
 Any;Cualquier
 Responsible;Responsable
 Responsibility;Responsabilidad
 While;Mientras
-It's;Es
-Its;Es
- On ; En
 Sourced;De Origen
-If;Si
 What;Qué
 Who;Quién
 Where;Dónde
@@ -254,7 +243,18 @@ Direction;Dirección
 Button;Botón
 Buttons;Botones
 Serversided;Del Lado del Servidor
-Notifications;Notificaciones
-Notification;Notificación
 Vibration;Vibración
 Search;Buscar
+And;Y
+I,;I,
+Not;No
+It's;Es
+Its;Es
+If;Si
+ To ; A 
+ At ; A 
+ Of ; A 
+ By ; Por 
+ Am ; Soy 
+ On ; En 
+ I ; Yo 
