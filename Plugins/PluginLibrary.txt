@@ -1,0 +1,2 @@
+PluginName;PluginDescription;PluginLink
+PluginName2;PluginDescription2;PluginLink2
