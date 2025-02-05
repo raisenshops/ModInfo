@@ -1,2 +1,2 @@
-Example Plugin;PluginDescription;PluginLink
+Example Plugin;PluginDescription;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/StupidPlugin.dll
 PluginName2;PluginDescription2;PluginLink2
