@@ -1,1 +1,2 @@
-Example Plugin;PluginDescription;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/StupidPlugin.dll
+Example Plugin;An example plugin for ii's Stupid Menu;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/StupidPlugin.dll
+Detected Plugin;Adds a \"detected mods\" category to the menu.;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/DetectedPlugin.dll
